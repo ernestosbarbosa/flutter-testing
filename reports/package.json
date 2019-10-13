@@ -1,0 +1,14 @@
+{
+  "name": "flutter-cucumber-reports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "report.js",
+  "scripts": {
+    "report": "node report.js"
+  },
+  "author": "jose.barbosa",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber-html-reporter": "^5.0.2"
+  }
+}
